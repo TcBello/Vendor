@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "108599873402",
+    "project_id": "vendor-7eff2",
+    "storage_bucket": "vendor-7eff2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108599873402:android:09da29e42670e6c89d10c3",
+        "android_client_info": {
+          "package_name": "com.tcbello.vendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108599873402-qp7igo2520pr0hai3ug0ed5203m4np01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVK0iqfTw2fKjKOZBQQLXN0ubTxQRqh8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108599873402-qp7igo2520pr0hai3ug0ed5203m4np01.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
